@@ -1,0 +1,13 @@
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\bin\Debug\TW.exe.config
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\bin\Debug\TW.exe
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\bin\Debug\TW.pdb
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.csprojResolveAssemblyReference.cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\MainWindow.baml
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\MainWindow.g.cs
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\App.g.cs
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW_MarkupCompile.cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.g.resources
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.Properties.Resources.resources
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.csproj.GenerateResource.Cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.exe
+c:\users\christianjavier\documents\visual studio 2012\Projects\TW\TW\obj\Debug\TW.pdb
